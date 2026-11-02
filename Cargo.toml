@@ -1,6 +1,10 @@
 [workspace]
 resolver = "2"
-members = ["contracts/escrow_engine"]
+members = [
+    "contracts/registry",
+    "contracts/escrow",
+    "contracts/dispute",
+]
 
 [profile.release]
 opt-level = "z"

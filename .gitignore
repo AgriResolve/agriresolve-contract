@@ -1,5 +1,7 @@
 target/
-**/*.rs.bk
 Cargo.lock
-.idea/
-.vscode/
+.env
+.env.*
+*.wasm
+**/*.rs.bk
+.DS_Store

@@ -1,19 +1,24 @@
-.PHONY: all build test check clean fmt
+.PHONY: all build build-wasm test fmt fmt-check clippy clean
 
-all: check test build
+all: build test
 
 build:
-	stellar contract build
+	cargo build
+
+build-wasm:
+	SOROBAN_SDK_BUILD_SYSTEM_SUPPORTS_SPEC_SHAKING_V2=1 cargo build --target wasm32v1-none --release
 
 test:
 	cargo test
 
-check:
-	cargo check
-
-clean:
-	cargo clean
-
 fmt:
 	cargo fmt --all
 
+fmt-check:
+	cargo fmt --all -- --check
+
+clippy:
+	cargo clippy --all-targets --workspace -- -D warnings
+
+clean:
+	cargo clean
