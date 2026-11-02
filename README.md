@@ -14,9 +14,9 @@ Pure Rust Soroban smart contract workspace powering **AgriResolve** — a decent
 
 | Contract Name | Contract ID | Stellar.Expert Explorer | Status |
 |---|---|---|---|
-| `agriresolve-registry` | `PENDING_DEPLOYMENT` | [View on Stellar.Expert](https://stellar.expert/explorer/testnet/contract/PENDING_DEPLOYMENT) | Testnet |
-| `agriresolve-escrow` | `PENDING_DEPLOYMENT` | [View on Stellar.Expert](https://stellar.expert/explorer/testnet/contract/PENDING_DEPLOYMENT) | Testnet |
-| `agriresolve-dispute` | `PENDING_DEPLOYMENT` | [View on Stellar.Expert](https://stellar.expert/explorer/testnet/contract/PENDING_DEPLOYMENT) | Testnet |
+| `agriresolve-registry` | `CC3OJZP4DCYOOTRJTT66UHMAGR2677JNDBNFQYMREQA2ONDWNRAO75J6` | [View on Stellar.Expert](https://stellar.expert/explorer/testnet/contract/CC3OJZP4DCYOOTRJTT66UHMAGR2677JNDBNFQYMREQA2ONDWNRAO75J6) | Active (Testnet) |
+| `agriresolve-escrow` | `CCPZFPNUQGNT5O6H3VWT2H23CLXF2POF5QYDAD4HPOB2RRKSHO63OIXC` | [View on Stellar.Expert](https://stellar.expert/explorer/testnet/contract/CCPZFPNUQGNT5O6H3VWT2H23CLXF2POF5QYDAD4HPOB2RRKSHO63OIXC) | Active (Testnet) |
+| `agriresolve-dispute` | `CCBQBMQFQPRRMOQLPNYSIBGTL7AOXXQAAIADXE2YYTZHSUSDS6Z4ES5N` | [View on Stellar.Expert](https://stellar.expert/explorer/testnet/contract/CCBQBMQFQPRRMOQLPNYSIBGTL7AOXXQAAIADXE2YYTZHSUSDS6Z4ES5N) | Active (Testnet) |
 
 ---
 
