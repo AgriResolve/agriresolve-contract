@@ -1,12 +1,22 @@
 # AgriResolve Smart Contracts
 
 [![CI Status](https://github.com/AgriResolve/AgriResolve-contract/actions/workflows/ci.yml/badge.svg)](https://github.com/AgriResolve/AgriResolve-contract/actions/workflows/ci.yml)
-[![Soroban SDK](https://img.shields.io/badge/Soroban%20SDK-v29.0.1-brightgreen.svg)](https://soroban.stellar.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Soroban SDK](https://img.shields.io/badge/Soroban%20SDK-v22%20%2F%20v29-brightgreen.svg)](https://soroban.stellar.org/)
 [![Stellar Protocol](https://img.shields.io/badge/Stellar-Protocol%2022%20%2F%2029-blue.svg)](https://stellar.org/)
 [![Rust](https://img.shields.io/badge/Rust-1.84%2B-orange.svg)](https://www.rust-lang.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 Pure Rust Soroban smart contract workspace powering **AgriResolve** — a decentralized agricultural trade finance, quality registry, and autonomous dispute resolution protocol on the Stellar network.
+
+---
+
+## Deployed Testnet Contracts
+
+| Contract Name | Contract ID | Stellar.Expert Explorer | Status |
+|---|---|---|---|
+| `agriresolve-registry` | `PENDING_DEPLOYMENT` | [View on Stellar.Expert](https://stellar.expert/explorer/testnet/contract/PENDING_DEPLOYMENT) | Testnet |
+| `agriresolve-escrow` | `PENDING_DEPLOYMENT` | [View on Stellar.Expert](https://stellar.expert/explorer/testnet/contract/PENDING_DEPLOYMENT) | Testnet |
+| `agriresolve-dispute` | `PENDING_DEPLOYMENT` | [View on Stellar.Expert](https://stellar.expert/explorer/testnet/contract/PENDING_DEPLOYMENT) | Testnet |
 
 ---
 
@@ -228,6 +238,24 @@ To seed community contributor issues adhering to Drips Wave standards:
 ```bash
 ./scripts/create_issues.sh
 ```
+
+---
+
+## Maintainers
+
+| Name | Role | GitHub | Telegram |
+|---|---|---|---|
+| **Hassan Korey** | Protocol Architect & Lead Developer | [@HassanKorey](https://github.com/HassanKorey) | [@HassanKorey](https://t.me/HassanKorey) |
+
+---
+
+## Contributors
+
+Thanks goes to these wonderful people:
+
+<a href="https://github.com/AgriResolve/AgriResolve-contract/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=AgriResolve/AgriResolve-contract" alt="Contributors" />
+</a>
 
 ---
 
