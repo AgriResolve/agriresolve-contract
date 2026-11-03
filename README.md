@@ -1,5 +1,11 @@
 # AgriResolve Smart Contracts
 
+## 🌍 Live Ecosystem & Resources
+* **Web App:** [https://agrires.vercel.app/](https://agrires.vercel.app/)
+* **Documentation Site:** [https://agriresolve.github.io/agriresolve-docs/](https://agriresolve.github.io/agriresolve-docs/)
+* **API / Indexer:** [https://agriresolve-app.onrender.com/health](https://agriresolve-app.onrender.com/health)
+* **Demo Video:** [Watch on Google Drive](https://drive.google.com/file/d/19gYJMcZit6NssLxwmhBllQecmnPoG_F8/view)
+
 [![CI Status](https://github.com/AgriResolve/AgriResolve-contract/actions/workflows/ci.yml/badge.svg)](https://github.com/AgriResolve/AgriResolve-contract/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Soroban SDK](https://img.shields.io/badge/Soroban%20SDK-v22%20%2F%20v29-brightgreen.svg)](https://soroban.stellar.org/)
